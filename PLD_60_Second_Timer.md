@@ -26,33 +26,4 @@ Limit the number of connections at one junction. Some issues emerged in my desig
 
 
 # Appendix
-
-Fig.1 74LS163 4-bit synchronous counter IC Multisim diagram
-
-
-
-
-
-Fig.2 Reset circuit for 74LS163
-
-
-
-
-Fig.3 “add one” circuit
-
-
-
-Fig.4 Multiplexers for different segments.
-
-
-
-Fig.5 Multiplexers and 4-bit counter frequency divider
-
-
-
-Fig.6 Annotated diagram for the full design
-
-
-Fig. 7 Arbitrary Wave Generator 
-
-Video.1 timer counting from 0 to 59 seconds with reset triggers
+video: [https://youtube.com/shorts/P3DxoAfDVsw](url)
